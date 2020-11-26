@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 978e81c281c85984896ee71c44bb255e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4895109779821842928
+    second: walk4_0
+  - first:
+      213: 3545352393438883715
+    second: walk4_1
+  - first:
+      213: 3022493912986790266
+    second: walk4_2
+  - first:
+      213: -8071776215645535043
+    second: walk4_3
+  - first:
+      213: -7920294808214131959
+    second: walk4_4
+  - first:
+      213: 7678671684910137677
+    second: walk4_5
+  - first:
+      213: -3282879064269157133
+    second: walk4_6
+  - first:
+      213: -7828130584836132267
+    second: walk4_7
+  - first:
+      213: 5266823203540374385
+    second: walk4_8
+  - first:
+      213: 8480609485786725333
+    second: walk4_9
+  - first:
+      213: 2148196960324780177
+    second: walk4_10
+  - first:
+      213: -4289014656054945200
+    second: walk4_11
+  - first:
+      213: -581661733374317262
+    second: walk4_12
+  - first:
+      213: 2741015153534357687
+    second: walk4_13
+  - first:
+      213: -8795173267089135578
+    second: walk4_14
+  - first:
+      213: 9119198730811422991
+    second: walk4_15
+  - first:
+      213: -864970943518736599
+    second: walk4_16
+  - first:
+      213: 3437126934509956013
+    second: walk4_17
+  - first:
+      213: 6460595615815500722
+    second: walk4_18
+  - first:
+      213: -5805157941225263358
+    second: walk4_19
+  - first:
+      213: -4727919148696737677
+    second: walk4_20
+  - first:
+      213: 1916861586669109462
+    second: walk4_21
+  - first:
+      213: -190293219467971028
+    second: walk4_22
+  - first:
+      213: 7439429579980611341
+    second: walk4_23
+  - first:
+      213: 8707920383516678691
+    second: walk4_24
+  - first:
+      213: -6714815181213858147
+    second: walk4_25
+  - first:
+      213: 609654204764240023
+    second: walk4_26
+  - first:
+      213: -1987841309860519807
+    second: walk4_27
+  - first:
+      213: 5063260204174451967
+    second: walk4_28
+  - first:
+      213: -433051666107582580
+    second: walk4_29
+  - first:
+      213: -1130148583644839908
+    second: walk4_30
+  - first:
+      213: -4700227986890988619
+    second: walk4_31
+  - first:
+      213: -8774345259688316557
+    second: walk4_32
+  - first:
+      213: 1817914001970321041
+    second: walk4_33
+  - first:
+      213: 4220131190078381736
+    second: walk4_34
+  - first:
+      213: -1790535979772553517
+    second: walk4_35
+  - first:
+      213: -14649891840970114
+    second: walk4_0
+  - first:
+      213: -6294250081169176283
+    second: walk4_1
+  - first:
+      213: 1864650529321593064
+    second: walk4_2
+  - first:
+      213: 5297802563307572044
+    second: walk4_3
+  - first:
+      213: 7357806667092297287
+    second: walk4_4
+  - first:
+      213: -6940493382724197574
+    second: walk4_5
+  - first:
+      213: -5727862389978410167
+    second: walk4_6
+  - first:
+      213: -827644374774575209
+    second: walk4_7
+  - first:
+      213: -1082175590400483637
+    second: walk4_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk4_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 70
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7232d04004fbcff0800000000000000
+      internalID: -14649891840970114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk4_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529007846e456a8a0800000000000000
+      internalID: -6294250081169176283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk4_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 70
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8257ee6c190e910800000000000000
+      internalID: 1864650529321593064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk4_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 38
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0a14cc53958940800000000000000
+      internalID: 5297802563307572044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk4_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 38
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746890e2e2e2c1660800000000000000
+      internalID: 7357806667092297287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk4_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 38
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3366cc6a0a6eaf90800000000000000
+      internalID: -6940493382724197574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk4_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943540bf08b8280b0800000000000000
+      internalID: -5727862389978410167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk4_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f063183dd9384f0800000000000000
+      internalID: -827644374774575209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk4_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce949db8075bf0f0800000000000000
+      internalID: -1082175590400483637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
