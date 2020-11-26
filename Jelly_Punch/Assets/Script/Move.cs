@@ -45,7 +45,7 @@ public class Move : MonoBehaviour
     {
         //Move Speed
         float h = Input.GetAxisRaw("Horizontal");
-        rigid.AddForce(Vector2.right * h, ForceMode2D.Impulse);
+        rigid.AddForce(Vector2.right * h * 2, ForceMode2D.Impulse);
         
         //Max Speed
         if (rigid.velocity.x > maxSpeed) //Right Max Speed
