@@ -39,6 +39,7 @@ public class Move : MonoBehaviour
             anim.SetBool("isWalking", false);
         else
             anim.SetBool("isWalking", true);
+
     }
 
     void FixedUpdate()
