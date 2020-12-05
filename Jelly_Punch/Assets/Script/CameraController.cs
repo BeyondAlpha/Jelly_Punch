@@ -7,7 +7,7 @@ public class CameraController : MonoBehaviour
     GameObject player;
     void Start()
     {
-        this.player = GameObject.Find("cat");
+        this.player = GameObject.Find("Cat");
     }
 
     // Update is called once per frame
